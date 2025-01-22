@@ -14,7 +14,7 @@ This project implements a grid world environment for RL, where an agent (naruto)
 
 ## Features
 
-- **Q-Learning**: The agent uses Q-learning,
+- **Q-Learning**: The agent uses Q-learning.
 
 - **Exploration and Exploitation**: The agent balances exploration and exploitation using an epsilon-greedy strategy, with epsilon decaying over time to favour exploitation.
 
