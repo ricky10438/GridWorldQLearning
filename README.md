@@ -19,4 +19,5 @@ This project implements a grid world environment for RL, where an agent (naruto)
 - **Exploration and Exploitation**: The agent balances exploration and exploitation using an epsilon-greedy strategy, with epsilon decaying over time to favour exploitation.
 
 - **Visualisation**: The environment can be rendered using `pygame`, allowing for visualisation of the agent's learning process.
+  
 ![naruto_sasuke_gif](https://github.com/user-attachments/assets/b39cc464-b1ac-44e6-a6ff-ed16f0be952b)
