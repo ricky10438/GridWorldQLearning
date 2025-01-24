@@ -19,7 +19,7 @@ class Target(pygame.sprite.Sprite):
             y (int): The y-coordinate of the target's position.
         """
         super().__init__()
-        self.image = pygame.image.load('images/ramen.png')
+        self.image = pygame.image.load('images/sasuke_head.png')
         self.x_pos = x
         self.y_pos = y
         self.CELL_DIM = 50

@@ -24,7 +24,6 @@ class Player(pygame.sprite.Sprite):
         self.x_pos = x
         self.y_pos = y
         self.CELL_DIM = 50
-        self.reward = 0
         # Set the position and rect
         # Get the original width and height
         original_width, original_height = self.image.get_size()
